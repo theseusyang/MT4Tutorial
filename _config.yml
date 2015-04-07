@@ -4,8 +4,8 @@ email: theseusyang@gmail.com
 description: "MetaTrader 交易平台编程入门，编程详解示例"
 baseurl: ""
 url: "http://mt4tutorial.github.io"
-twitter_username: mt4tutorial
-github_username:  mt4tutorial
+twitter_username: theseusyang
+github_username:  theseusyang
 
 # Build settings
 markdown: kramdown
