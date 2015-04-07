@@ -1,0 +1,8 @@
+SPREADBRAND=mesadb
+SPREADARGS="-c /opt/${SPREADBRAND}/config/mspread.conf"
+SPREADPATH=/opt/$SPREADBRAND/spread/sbin
+DAEMONIZEPATH=/opt/$SPREADBRAND/sbin
+DAEMONIZEOUTPUTPATH=/var/log/spreadd.log
+SP_PORT=4803
+SP_USER=spread
+DAEMONPIDFILE=/var/run/spread.pid
