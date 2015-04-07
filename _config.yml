@@ -1,11 +1,11 @@
 # Site settings
-title: Geo-Replicated, Near Real-Time, Scalable Database
-email: openmesadb@gmail.com
-description: "MesaDB is inspired by Mesa of Google, it's a Geo-Replicated, Near Real-Time, Scalable Data Warehousing."
+title: MetaTrader 交易平台编程教程
+email: theseusyang@gmail.com
+description: "MetaTrader 交易平台编程入门，编程详解示例"
 baseurl: ""
-url: "http://mesadb.com"
-twitter_username: openmesadb
-github_username:  mesadb
+url: "http://mt4tutorial.github.io"
+twitter_username: mt4tutorial
+github_username:  mt4tutorial
 
 # Build settings
 markdown: kramdown
